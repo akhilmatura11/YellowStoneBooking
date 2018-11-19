@@ -4,4 +4,19 @@
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
+    <string name="pay">Pay</string>
+    <string name="thank_you">Thank you for using Yellow Stone Maynmar booking services. Your ticket has been sent to your email ID. PNR no. 7267324747.</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="facebook_login">Facebook Login</string>
+    <string name="login_via_facebook">Login via Facebook</string>
+    <string name="logo">Logo</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="your_location">Your Location</string>
+    <string name="_129_dhammazedi_road_yangon">129 Dhammazedi Road, Yangon</string>
+    <string name="change">Change</string>
+    <string name="book">Book</string>
+    <string name="title_activity_show_timings">ShowTimings</string>
+    <string name="thugs_of_hindustan">Thugs Of Hindustan</string>
+    <string name="show_timings">Show Timings</string>
 </resources>
